@@ -1,3 +1,5 @@
+# Source: [Jordan Hudgens](https://github.com/jordanhudgens/vim-settings)
+
 ## Vim Cheat Sheet and [Vim Setting](https://github.com/KongOu/vim-setting/blob/master/vimrc)
 
 ### Navigation
