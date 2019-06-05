@@ -1,5 +1,3 @@
-# Source: [Jordan Hudgens](https://github.com/jordanhudgens/vim-settings)
-
 ## Vim Cheat Sheet and [Vim Setting](https://github.com/KongOu/vim-setting/blob/master/vimrc)
 
 ### Navigation
@@ -160,3 +158,5 @@ touch .vimrc; mkdir .vim
 
 - `c + i + t` will remove the code between HTML tags, such as: `<div>Some content</div>`
 - `c + i + }` will remove the code inside of a JavaScript function
+
+### Source: [Jordan Hudgens](https://github.com/jordanhudgens/vim-settings)
